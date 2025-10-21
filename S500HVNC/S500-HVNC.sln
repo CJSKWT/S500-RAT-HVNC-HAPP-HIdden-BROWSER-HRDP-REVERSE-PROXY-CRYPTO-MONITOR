@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{5AA97210-09E9-4217-9A22-B351CF84DF17}") = "S500-HVNC", "S500-HVNC.csproj", "{E387854D-EFFE-46DD-B09E-3FB45F1AF9CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E387854D-EFFE-46DD-B09E-3FB45F1AF9CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E387854D-EFFE-46DD-B09E-3FB45F1AF9CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E387854D-EFFE-46DD-B09E-3FB45F1AF9CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E387854D-EFFE-46DD-B09E-3FB45F1AF9CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6777A5D-E43B-4508-B29B-95A3AC7EAD26}
+	EndGlobalSection
+EndGlobal
